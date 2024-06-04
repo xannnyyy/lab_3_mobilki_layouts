@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">lab3</string>
+
+
+    <string name="type_a_message">наберите сообщение</string>
+    <string name="my_friend">одногруппник</string>
+    <string name="privet">Привет</string>
+    <string name="privet2">привет</string>
+    <string name="kak">Сделал отчёт по проге?</string>
+    <string name="ff">ещё нет, сижу делаю</string>
+    <string name="gg">Как сделаешь, покажешь как его оформить?</string>
+    <string name="dd">оки</string>
+    <string name="bb">Ну тогда ещё спишемся</string>
+    <string name="fdf">ага</string>
+
+</resources>
